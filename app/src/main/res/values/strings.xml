@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Naoborot</string>
+    <string name="title">Всё наоборот!</string>
+    <string name="hint_text_ET">Введи текст</string>
+    <string name="btn_text">Преобразовать</string>
+    <string name="result_TV">Результат</string>
+    <string name="counter_TV">Количество букв</string>
+</resources>
